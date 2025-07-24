@@ -40,6 +40,7 @@ and then installing it with
 ```
 pip install dist/sortabilitytime-0.1.0-py3-none-any.whl
 ```
+Each Dataset: Causalchamber, ER, Graphs. NEURIPS competition, River Data has its own Notebook.
 To rerun the experiments located in the `experiments` folder first install all dependencies
 
 ```
@@ -49,13 +50,12 @@ To run the Causalchamber Datasets just make the directory
 ```
 mkdir Data/Causalchamber
 ```
-Each Dataset: Causalchamber, ER, Graphs. NEURIPS competition, River Data has its own Notebook.
 By running the Notebook the files will download automatically.
 For the river data the pickle files are provided. 
 For the NEURIPS Competition the data was requested by the [competition organisers](https://causeme.uv.es)
 and the ground truth is therefore not included and would 
 need to be located in `Data/NeuripsCompetition/neurips-causeme-ground-truths` along with one folder per data file in the `Data/NeuripsCompetition/` directory.
-The ER Graphs do not need any data files.
+The ER Graphs Experiments do not need any data files.
 
 
 [1] Reisach, Alexander, Christof Seiler, and Sebastian Weichwald. "Beware of the simulated dag! causal discovery benchmarks may be easy to game." Advances in Neural Information Processing Systems 34 (2021): 27772-27784.
