@@ -1,18 +1,6 @@
 # Sortability of Time Series Data
 
 Code for the Paper [Sortability of Timeseries Data](https://openreview.net/forum?id=OGvmCpcHdV) by Christopher Lohse and Jonas Wahl.
-If you use the code please consider citing
-
-```
-@article{lohse2024sortability,
-    title={Sortability of Time Series Data},
-    author={Christopher Lohse and Jonas Wahl},
-    journal={Transactions on Machine Learning Research},
-    year={2025},
-}
-```
-
-
 
 ## Method
 For any causal model containing the variables {X^(1), …, X^(d)} with a (non-degenerate) adjacency matrix *W*, the sortability score is the fraction of directed paths that start from a node with a strictly lower sortability criterion than the node they end in[1]. 
@@ -56,6 +44,19 @@ For the NEURIPS Competition the data was requested by the [competition organiser
 and the ground truth is therefore not included and would 
 need to be located in `Data/NeuripsCompetition/neurips-causeme-ground-truths` along with one folder per data file in the `Data/NeuripsCompetition/` directory.
 The ER Graphs Experiments do not need any data files.
+
+## Citation
+
+If you use our work and please consider citing
+
+```
+@article{lohse2024sortability,
+    title={Sortability of Time Series Data},
+    author={Christopher Lohse and Jonas Wahl},
+    journal={Transactions on Machine Learning Research},
+    year={2025},
+}
+```
 
 
 [1] Reisach, Alexander, Christof Seiler, and Sebastian Weichwald. "Beware of the simulated dag! causal discovery benchmarks may be easy to game." Advances in Neural Information Processing Systems 34 (2021): 27772-27784.
