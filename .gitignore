@@ -1,3 +1,7 @@
+# Data Directory
+Data/Causalchamber
+Data/NeuripsCompetition
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -6,11 +10,11 @@ __pycache__/
 # C extensions
 *.so
 
+
 # Distribution / packaging
 .Python
 build/
 develop-eggs/
-dist/
 downloads/
 eggs/
 .eggs/
