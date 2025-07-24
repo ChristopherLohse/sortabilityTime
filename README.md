@@ -34,6 +34,7 @@ If we were to calculate it including cyclically connected pairs, it would result
 To use the implementation of the varsortability and r2sortability for timeseries data you can install the library in your existing python environment by first cloning the repository:
 ```
 git clone https://github.com/ChristopherLohse/sortabilityTime.git
+cd sortabilityTime
 ```
 and then installing it with
 ```
