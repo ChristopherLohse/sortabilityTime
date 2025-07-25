@@ -1,4 +1,6 @@
 # Sortability of Time Series Data
+![TMLR Paper](https://img.shields.io/badge/TMLR-Accepted-brightgreen?logo=openaccess&logoColor=white)
+
 
 Code for the Paper [Sortability of Timeseries Data](https://openreview.net/forum?id=OGvmCpcHdV) by Christopher Lohse and Jonas Wahl.
 
