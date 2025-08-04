@@ -4,7 +4,7 @@
 
 Offcial Code for the Paper [Sortability of Timeseries Data](https://openreview.net/forum?id=OGvmCpcHdV) by Christopher Lohse and Jonas Wahl.
 
-If you use our work and please consider citing
+If you use our work and find it useful please consider citing
 
 ```bibtex
 @article{lohse2024sortability,
