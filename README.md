@@ -58,7 +58,6 @@ and the ground truth is therefore not included and would
 need to be located in `Data/NeuripsCompetition/neurips-causeme-ground-truths` along with one folder per data file in the `Data/NeuripsCompetition/` directory.
 The ER Graphs Experiments do not need any data files.
 
+[1] Reisach, A., Seiler, C., & Weichwald, S. (2021). Beware of the simulated dag! causal discovery benchmarks may be easy to game. Advances in Neural Information Processing Systems, 34, 27772-27784.
 
-[1] Reisach, Alexander, Christof Seiler, and Sebastian Weichwald. "Beware of the simulated dag! causal discovery benchmarks may be easy to game." Advances in Neural Information Processing Systems 34 (2021): 27772-27784.
-
-[2] Alexander Gilbert Reisach, Myriam Tami, Christof Seiler, Antoine Chambaz, and Sebastian Weichwald. A scale invariant sorting criterion to find a causal order in additive noise models. In Thirty-seventh Conference on Neural Information Processing Systems, 2023.
+[2] Reisach, A., Tami, M., Seiler, C., Chambaz, A., & Weichwald, S. (2023). A scale-invariant sorting criterion to find a causal order in additive noise models. Advances in Neural Information Processing Systems, 36, 785-807
