@@ -7,11 +7,14 @@ Offcial Code for the Paper [Sortability of Timeseries Data](https://openreview.n
 If you use our work and find it useful please consider citing
 
 ```bibtex
-@article{lohse2024sortability,
-    title={Sortability of Time Series Data},
-    author={Christopher Lohse and Jonas Wahl},
-    journal={Transactions on Machine Learning Research},
-    year={2025},
+@article{
+lohse2025sortability,
+title={Sortability of Time Series Data},
+author={Christopher Lohse and Jonas Wahl},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2025},
+url={https://openreview.net/forum?id=OGvmCpcHdV},
 }
 ```
 
